@@ -1,22 +1,43 @@
-# Dext 🚀
+# Mert ÇELİK
 
-Dext, işleri kolaylaştıran ve hız kazandıran bir araç.  
-Amacım basit: karmaşayı azaltmak ve kullanıcıya pratik bir çözüm sunmak.  
-
----
-
-## Ne yapıyor? 🔹
-Dext, [örneğin: verileri hızlıca yönetmeyi, metinleri düzenlemeyi, uygulamaları kontrol etmeyi] kolaylaştırır.  
-Kullanımı basit ve anlaşılır, her şey hızlı ve etkili.  
+**Fullstack Developer | Python & Flutter**
 
 ---
 
-## Neden kullanmalı? ✨
-- İşleri hızlandırır  
-- Karmaşıklığı azaltır  
-- Kullanımı kolaydır  
+## 🚀 Projelerim
+
+### Chat Metin Programı
+Python ile geliştirdiğim metin işleme uygulaması.  
+**Tech:** `Python` `OOP`
+
+![Chat Metin Programı](./images/chat.png)
+*Ekran görüntüsü: Metin işleme arayüzü*
 
 ---
 
-Dext, küçük ama güçlü bir araç.  
-Hedefim, kullanırken hem işinizi kolaylaştırmak hem de gereksiz karmaşayı ortadan kaldırmak.  
+### Mobil Uygulama
+Flutter ile geliştirdiğim cross-platform mobil uygulama.  
+**Tech:** `Flutter` `Dart`
+
+![Mobil Uygulama](./images/mobil.png)
+*Ekran görüntüsü: Mobil uygulama ana ekranı*
+
+---
+
+### Veritabanı Projesi
+SQL ve MySQL kullanarak geliştirdiğim veri tabanı uygulaması.  
+**Tech:** `SQL` `MySQL`
+
+![Veritabanı Projesi](./images/db.png)
+*Ekran görüntüsü: Veritabanı tabloları ve sorgular*
+
+---
+
+## 📊 GitHub İstatistiklerim
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertCelikk&show_icons=true&theme=radical)
+
+---
+
+## 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/mertcelik)  
+- [E-mail](mailto:ornek@mail.com)  
