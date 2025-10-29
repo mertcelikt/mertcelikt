@@ -1,126 +1,19 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mert ÇELİK GitHub Mockup</title>
-<style>
-  body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-    color: #111;
-  }
+<h1 align="center">Hi 👋, I'm Eda</h1>
+<h3 align="center">A passionate Backend developer from Türkiye</h3>
 
-  header {
-    display: flex;
-    align-items: center;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
 
-  header img {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    border: 2px solid #007aff;
-    margin-right: 20px;
-  }
 
-  header div h1 {
-    margin: 0;
-    font-size: 1.8rem;
-    color: #007aff;
-  }
+- 🌱 I’m currently learning *python and C++*
 
-  header div p {
-    margin: 5px 0 0 0;
-    color: #555;
-  }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-  main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 20px;
-  }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  .repo {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edatabu&show_icons=true&locale=en&layout=compact" alt="edatabu" /></p>
 
-  .repo:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-  }
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edatabu&show_icons=true&locale=en" alt="edatabu" /></p>
 
-  .repo h2 {
-    margin-top: 0;
-    color: #007aff;
-  }
-
-  .repo p {
-    color: #333;
-  }
-
-  .tags {
-    margin-top: 10px;
-  }
-
-  .tag {
-    display: inline-block;
-    background-color: #e0eaff;
-    color: #007aff;
-    padding: 3px 8px;
-    border-radius: 5px;
-    margin-right: 5px;
-    font-size: 0.8rem;
-  }
-</style>
-</head>
-<body>
-
-<header>
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Profil Fotoğrafı">
-  <div>
-    <h1>Mert ÇELİK</h1>
-    <p>Python & Flutter Developer</p>
-  </div>
-</header>
-
-<main>
-  <div class="repo">
-    <h2>Chat Metin Programı</h2>
-    <p>Python ile geliştirdiğim metin işleme uygulaması.</p>
-    <div class="tags">
-      <span class="tag">Python</span>
-      <span class="tag">OOP</span>
-    </div>
-  </div>
-
-  <div class="repo">
-    <h2>Mobil Uygulama</h2>
-    <p>Flutter ile geliştirdiğim cross-platform mobil uygulama.</p>
-    <div class="tags">
-      <span class="tag">Flutter</span>
-      <span class="tag">Dart</span>
-    </div>
-  </div>
-
-  <div class="repo">
-    <h2>Veritabanı Projesi</h2>
-    <p>SQL ve MySQL kullanarak geliştirdiğim veri tabanı uygulaması.</p>
-    <div class="tags">
-      <span class="tag">SQL</span>
-      <span class="tag">MySQL</span>
-    </div>
-  </div>
-</main>
-
-</body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edatabu&label=Profile%20views&color=0e75b6&style=flat" alt="edatabu" /> </p>
