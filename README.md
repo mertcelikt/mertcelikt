@@ -1,6 +1,6 @@
 # 👋 Mert ÇELİK
 
-**Fullstack Developer | Python & Flutter**
+**Fullstack Python Developer**
 
 ---
 
@@ -36,11 +36,6 @@ SQL ve MySQL kullanarak geliştirdiğim veri tabanı uygulaması.
 
 ---
 
-## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertCelikk&show_icons=true&theme=radical)
-
----
-
 ## 📫 İletişim
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mertcelik)  
-- ✉️ [E-mail](mailto:ornek@mail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
+- ✉️ [E-mail](mertcelikt@gmail.com)  
