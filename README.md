@@ -1,6 +1,6 @@
 # 👋 Mert ÇELİK
 
-**Fullstack Python Developer**
+**Python Developer**
 
 ---
 
